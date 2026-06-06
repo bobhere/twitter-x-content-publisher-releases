@@ -1,22 +1,22 @@
 {
-  "version": "1.0.0",
-  "released_at": "2026-06-05",
-  "notes": "基线版本：新增启动时检查更新和一键更新能力；更新会保留本机飞书配置、本地缓存和本地内容文件。",
+  "version": "1.0.1",
+  "released_at": "2026-06-06",
+  "notes": "1.0.1：同步最新程序代码和网页看板优化；新增/完善文案标点与空行格式化工具、飞书正文同步校验。更新不会覆盖本机 feishu_config.json、posts.csv、posts_cache.csv 或 generated_content_batch_*.csv。",
   "packages": {
     "windows": {
       "url": "https://raw.githubusercontent.com/bobhere/twitter-x-content-publisher-releases/main/TwitterX_Content_Publisher_Update.zip",
-      "sha256": "456368affb330c37abeef7d5a799fde7e8db725aac523a7bfdc8ca273a17a93f",
-      "size": 53539
+      "sha256": "ad7ce9cfc81a06bea93ad919632be4902e9c26ea84fea503639f6b8a46b449e0",
+      "size": 62700
     },
     "macos": {
       "url": "https://raw.githubusercontent.com/bobhere/twitter-x-content-publisher-releases/main/TwitterX_Content_Publisher_Update.zip",
-      "sha256": "456368affb330c37abeef7d5a799fde7e8db725aac523a7bfdc8ca273a17a93f",
-      "size": 53539
+      "sha256": "ad7ce9cfc81a06bea93ad919632be4902e9c26ea84fea503639f6b8a46b449e0",
+      "size": 62700
     },
     "source": {
       "url": "https://raw.githubusercontent.com/bobhere/twitter-x-content-publisher-releases/main/TwitterX_Content_Publisher_Update.zip",
-      "sha256": "456368affb330c37abeef7d5a799fde7e8db725aac523a7bfdc8ca273a17a93f",
-      "size": 53539
+      "sha256": "ad7ce9cfc81a06bea93ad919632be4902e9c26ea84fea503639f6b8a46b449e0",
+      "size": 62700
     }
   }
 }
